@@ -1,0 +1,300 @@
+.contenitoreDisegni{
+	position: absolute;
+    width: 100%;
+    height: 14%;
+	overflow:hidden;
+}
+
+.scritte{
+	float:left;
+	margin-left:2%;
+	visibility:hidden;
+	text-align:center;
+	height:100%;
+	width: 15%;
+	
+}
+
+.scritte3{
+	position:absolute;
+	font-size:xxx-large;
+	width:100%;
+	height:20%;
+	visibility:hidden;
+	text-align:center;
+	display:inline-block;
+	background-position:center;
+    background-size:contain;
+    background-repeat:no-repeat;
+	font-family:"Oswald", sans-serif;
+}
+
+.scritte2{
+	position:absolute;
+	font-size:x-large;
+	width:22%;
+	visibility:hidden;
+	text-align:center;
+	margin-top:8%;
+}
+
+.vestiti{
+	float:left;
+	margin-left:2%;
+	height:100%;
+	visibility:hidden;
+	text-align:center;
+	width: 15%;
+}
+
+.med1{
+  background-image: url("disegniOki/med1.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:-20%;
+  margin-top:-6%;
+}
+
+.med2{
+  background-image: url("disegniOki/med2.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:-20%;
+  margin-top:-6%;
+}
+
+.med3{
+  background-image: url("disegniOki/med3.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:-20%;
+  margin-top:-6%;
+}
+
+.med4{
+  background-image: url("disegniOki/med4.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:-20%;
+  margin-top:-6%;
+}
+
+
+.voltoA{
+  background-image: url("disegniOki/testaSopra.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:75%;
+  margin-top:-6.3%;
+  transform-origin: 88% 95%;
+   z-index:1;
+}
+
+.voltoB{
+  background-image: url("disegniOki/testaSotto.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:75%;
+  margin-top:15%;
+  z-index:1;
+}
+
+.voltoC{
+  background-image: url("disegniOki/voltoFronte.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:42%;
+}
+
+.occhioDes{
+  background-image: url("disegniOki/occhioDes.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:39.5%;
+  transform-origin: 50% 50%;
+  margin-top:-1%;
+}
+
+.occhioSin{
+  background-image: url("disegniOki/occhioSin.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:45%;
+  transform-origin: 50% 50%;
+   margin-top:-1%;
+}
+
+.drago{
+  background-image: url("disegniOki/drago.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:-20%;
+  margin-top:-3%;
+}
+
+.sedia{
+  background-image: url("disegniOki/104.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:120%;
+  margin-top:2%;
+}
+
+.gatto{
+  background-image: url("disegniOki/topoGattoLore.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:120%;
+  margin-top:2%;
+  scale: 2;
+}
+
+.ah{ 
+  display:inline;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:100%;
+  font-family:"Oswald", sans-serif;
+  font-size: xxx-large;
+}
+
+.pugno1{
+  background-image: url("disegniOki/pugno.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:120%;
+  margin-top:2%;
+}
+
+.pugno2{
+  background-image: url("disegniOki/pugno.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:120%;
+  margin-top:-3%;
+  scale: 0.7
+}
+
+.bum{
+  background-image: url("disegniOki/bum.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:20%;
+  margin-top:2%;
+}
+
+.bum2{
+  background-image: url("disegniOki/bum.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:60%;
+  margin-top:-5%;
+  scale:0.5;
+}
+
+.figuraA{
+  background-image: url("disegniOki/figuraB.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:15%;
+  margin-top:0%;
+}
+
+.figuraB{
+  background-image: url("disegniOki/figuraA.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:70%;
+}
+
+.figuraC{
+  background-image: url("disegniOki/figuraC.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:40%;
+}
+
+.occhioDes2{
+  background-image: url("disegniOki/occhioDes.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:39%;
+  transform-origin: 50% 50%;
+  margin-top:-6%;
+  scale:0.5;
+}
+
+.occhioSin2{
+  background-image: url("disegniOki/occhioSin.png");  
+  display:inline-block;
+  background-position:center;
+  background-size:contain;
+  background-repeat:no-repeat;
+  position:absolute;
+  left:41%;
+  scale:0.5;
+  transform-origin: 50% 50%;
+   margin-top:-6%;
+}
