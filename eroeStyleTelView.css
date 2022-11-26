@@ -115,8 +115,8 @@ section{
 
 .mission2{
   cursor:pointer;
-  /*margin-top:82%;*/
-  display:none;
+  margin-top:82%;
+  //display:none;
 }
 
 .mission3{
@@ -164,8 +164,8 @@ section{
 .mission2b{
   cursor:pointer;
   transform: rotateY(180deg);
-  /*margin-top:82%;*/
-  display:none;
+  margin-top:82%;
+  //display:none;
 }
 
 .mission3b{
