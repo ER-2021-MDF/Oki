@@ -133,8 +133,8 @@ section{
 	
 .mission5{
   cursor:pointer;
-  /*margin-top:325%;*/
-  display:none;
+  margin-top:325%;
+  //display:none;
   }
 
 .compitiTitoloBack{
@@ -185,8 +185,8 @@ section{
 .mission5b{
   cursor:pointer;
   transform: rotateY(180deg);
-  /*margin-top:325%;*/
-  display:none;
+  margin-top:325%;
+  //display:none;
 }
 .titolo2{
     position: absolute;
