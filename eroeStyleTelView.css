@@ -127,7 +127,7 @@ section{
 	
 .mission4{
   cursor:pointer;
-  /*margin-top:244%;*/
+  margin-top:244%;
   display:none;
   }
 	
@@ -178,7 +178,7 @@ section{
 .mission4b{
   cursor:pointer;
   transform: rotateY(180deg);
-  /*margin-top:244%;*/
+  margin-top:244%;
   display:none;
 }
 	
