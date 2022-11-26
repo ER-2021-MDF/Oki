@@ -40,6 +40,9 @@ section{
 	height:100%;
 	background-color:white;
 	border-radius:50%;
+	background-image:url("silviaCartone.jpg");
+	background-position: center;
+    	background-size: cover;
 	
 }
 
